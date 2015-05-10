@@ -1,0 +1,3 @@
+@charset "UTF-8";
+/* admin styles */
+form#posts-filter a#usp_admin_filter_posts { display: inline-block; margin: 0 6px 0 0; }

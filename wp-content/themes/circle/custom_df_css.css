@@ -1,0 +1,64 @@
+.df_login_reg{
+    float:right;
+    margin:19px 30px 0 0;
+}
+.df_login_reg a{
+    font-family: 'Rokkitt',serif;
+    font-size: 16px;
+    color:#666;
+    padding:0 4px;
+}
+.blog_btn{
+    background: #f46421 /*url(images/add_new_post.png) no-repeat;*/!important;
+    cursor: pointer !important;
+    height: 47px !important;
+    width: 241px !important;
+    text-shadow: 1px 0 1px #333333 !important;
+    line-height: 47px !important;
+    text-align: center !important;
+    font-family: 'Rokkitt',serif;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    padding:7px 25px !important;
+    color: #FFFFFF !important;
+    border-radius: 3px;
+/*    float: left;*/
+    }
+ .blog_btn2{
+     background: #91C448  /*url(images/add_new_post.png) no-repeat;*/!important;
+    cursor: pointer !important;
+    height: 35px !important;
+    width: 150px !important;
+    text-shadow: 1px 0 1px #333333 !important;
+    /*line-height: 47px !important;*/
+    text-align: center !important;
+    font-family: 'Rokkitt',serif;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    /*padding:10px 4px 5px 4px !important;*/
+    color: #FFFFFF !important;
+    border-radius: 3px;
+    border: none;
+    padding: 8px 25px 11px !important;
+/*    float: left;*/
+    }
+  .df_fr_post_sub {
+    background: none repeat scroll 0 0 #F46421 !important;
+    border: medium none;
+    border-radius: 3px;
+    color: #FFFFFF !important;
+    cursor: pointer !important;
+    font-family: 'Rokkitt',serif;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    height: 40px !important;
+    line-height: 47px !important;
+    padding: 7px 5px !important;
+    text-align: center !important;
+    text-shadow: 1px 0 1px #333333 !important;
+    width: 150px !important;
+  }
+ .mu_register p{ font-size: 14px;}
+ .df_head_title{ font-family: AltastGreeting; float: left; width:700px; font-size: 47px; font-weight: bold; text-transform: capitalize;}
+ .df_no_post_msg {font-size:30px; font-weight: bold; text-align:center; margin:60px; min-height: 90px; font-family: AltastGreeting;}
+ .dialog_extra{color: #5a97d1; font-weight: bold; font-size: 12px; line-height: 14px; text-align: center;}
